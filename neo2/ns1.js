@@ -1,0 +1,1 @@
+console.log('ns1.js');
